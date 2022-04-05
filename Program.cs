@@ -6,6 +6,7 @@ namespace CalculadoraIMC
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("qual seu nome?");
             string nome = Console.ReadLine();
 
@@ -16,6 +17,8 @@ namespace CalculadoraIMC
             float peso = Convert.ToSingle(Console.ReadLine());
 
             double imc = Math.Round(peso / (altura * altura), 2);
+
+            Individuo pessoa = new Individuo( altura, peso);
 
 
             Console.WriteLine("{0} sua altura é {1} e seu peso {2}" , nome, altura, peso);

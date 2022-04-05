@@ -8,24 +8,30 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\emily\\.nuget\\packages\\": {}
+    "C:\\Users\\IFSP\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emily\\Desktop\\CalculadoraIMC\\CalculadoraIMC.csproj",
+      "projectUniqueName": "C:\\Users\\IFSP\\Desktop\\sp3048993\\CalculadoraIMC\\CalculadoraIMC.csproj",
       "projectName": "CalculadoraIMC",
-      "projectPath": "C:\\Users\\emily\\Desktop\\CalculadoraIMC\\CalculadoraIMC.csproj",
-      "packagesPath": "C:\\Users\\emily\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emily\\Desktop\\CalculadoraIMC\\obj\\",
+      "projectPath": "C:\\Users\\IFSP\\Desktop\\sp3048993\\CalculadoraIMC\\CalculadoraIMC.csproj",
+      "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IFSP\\Desktop\\sp3048993\\CalculadoraIMC\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\emily\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\IFSP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
